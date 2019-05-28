@@ -1,1 +1,2 @@
-base.dir=.
+base:
+	dir: .
